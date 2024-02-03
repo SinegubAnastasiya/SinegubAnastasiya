@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Anastasiya Sinegub</h1>
+<h3 align="center">I'm a Software Engineer / Javascript developer</h3>
 
-<!--
-**SinegubAnastasiya/SinegubAnastasiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SinegubAnastasiya&label=Profile%20views&color=0e75b6&style=flat" alt="SinegubAnastasiya" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **ReactJS, JavaScript/TypeScript, NodeJS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **sinegubanastasiya1998@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anastasiya-sinegub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anastasiyasinegub" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anastasiiafediukevich/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anastasiiafediukevich" height="30" width="40" /></a>
+<a href="https://t.me/fedyukevich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fedyukevich" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">My own Stats</h3>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SinegubAnastasiya&show_icons=true&theme=onedark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SinegubAnastasiya&theme=onedark)](https://git.io/streak-stats)
