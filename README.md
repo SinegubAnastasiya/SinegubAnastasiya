@@ -16,6 +16,6 @@
 
 <h3 align="left">My own Stats</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SinegubAnastasiya&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SinegubAnastasiya&show_icons=true&theme=omni)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SinegubAnastasiya&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SinegubAnastasiya&theme=omni)](https://git.io/streak-stats)
