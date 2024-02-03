@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/anastasiya-sinegub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anastasiyasinegub" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anastasiiafediukevich/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anastasiiafediukevich" height="30" width="40" /></a>
-<a href="https://t.me/fedyukevich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fedyukevich" height="30" width="40" /></a>
+<a href="https://t.me/fedyukevich" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="fedyukevich" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">My own Stats</h3>
